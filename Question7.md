@@ -51,6 +51,7 @@ def stop_all_running_instances():
 stop_all_running_instances()
 
 ```
+![2025-04-26_12-31](https://github.com/user-attachments/assets/f87fda6d-146e-461e-9177-5bc50f0139dc)
 
 ![2025-04-26_10-45](https://github.com/user-attachments/assets/2ce86b21-ff74-42cc-a666-d64556e74269)
 
