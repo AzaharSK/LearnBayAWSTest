@@ -1,5 +1,6 @@
 
-![Uploading Screenshot from 2025-04-26 10-10-44.png…]()
+![Screenshot from 2025-04-26 10-10-44](https://github.com/user-attachments/assets/f016b3eb-71e2-40cb-8931-256dfd13dcb5)
+
 
 # Question 7: create a python lamda function on aws console to stop EC2 instance if it was running in aws lamda code editor
 
