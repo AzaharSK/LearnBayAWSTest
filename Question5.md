@@ -1,4 +1,7 @@
-# Create a 1 Dynamo DB table on aws Student with 4 filed and value in it  
+![Screenshot from 2025-04-26 10-10-44](https://github.com/user-attachments/assets/8e25a6d1-70a6-4a6d-8e23-a2abc53f2fb5)
+
+
+# Question 5: Create a 1 Dynamo DB table on aws Student with 4 filed and value in it  
 ```
 Stud_id,
 Stud_name,
