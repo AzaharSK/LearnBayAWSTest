@@ -1,3 +1,6 @@
+
+![Uploading Screenshot from 2025-04-26 10-10-44.png…]()
+
 # Question 7: create a python lamda function on aws console to stop EC2 instance if it was running in aws lamda code editor
 
 
