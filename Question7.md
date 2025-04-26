@@ -6,6 +6,14 @@
 
 
 ![2025-04-26_10-41](https://github.com/user-attachments/assets/aabd93dc-62af-411d-a0d1-b9cb79769304)
+![2025-04-26_12-08](https://github.com/user-attachments/assets/47f3c14c-f32e-4243-842f-4ee314572b20)
+![2025-04-26_12-09](https://github.com/user-attachments/assets/d225d676-ec87-4c9a-a46a-7746a23dfa2a)
+![2025-04-26_12-10](https://github.com/user-attachments/assets/c05a169d-ec65-4609-b4a6-3f64cea611b0)
+![2025-04-26_12-10_1](https://github.com/user-attachments/assets/0b9a6e05-787f-4473-bf8b-47fc45e617f0)
+
+![image](https://github.com/user-attachments/assets/fa926266-1160-4c10-b391-0822a80f6ebe)
+![image](https://github.com/user-attachments/assets/9856667f-015c-4264-8313-46993a774e4f)
+
 
 ```python
 import json
