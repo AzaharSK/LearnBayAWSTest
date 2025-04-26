@@ -12,7 +12,8 @@
 ![2025-04-26_12-10_1](https://github.com/user-attachments/assets/0b9a6e05-787f-4473-bf8b-47fc45e617f0)
 
 ![image](https://github.com/user-attachments/assets/fa926266-1160-4c10-b391-0822a80f6ebe)
-![image](https://github.com/user-attachments/assets/9856667f-015c-4264-8313-46993a774e4f)
+![image](https://github.com/user-attachments/assets/3a8b8cc4-7d21-4481-a037-f1eff49191f6)
+
 
 
 ```python
