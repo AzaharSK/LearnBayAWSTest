@@ -19,7 +19,7 @@
 
 ![2025-04-26_11-05](https://github.com/user-attachments/assets/f4cf1cd9-855d-45fc-923a-007e487abb78)
 
-![Uploading 2025-04-26_11-07.png…]()
+![2025-04-26_11-07](https://github.com/user-attachments/assets/48c93e79-80d6-41b1-8200-04d4c0ba87b8)
 
 ![Screenshot from 2025-04-26 11-07-10](https://github.com/user-attachments/assets/a8588c94-18c5-4a3f-83b5-84cedb6ee7a7)
 
