@@ -1,3 +1,6 @@
+![Screenshot from 2025-04-26 10-10-44](https://github.com/user-attachments/assets/77135eb2-3e25-4111-985e-e46bd9e8c0d9)
+
+
 # Qestion 2: create a role and assign that role with permission to Ec2 to handle RDS on AWS console
 
 
