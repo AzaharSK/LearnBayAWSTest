@@ -1,3 +1,5 @@
+![Screenshot from 2025-04-26 10-10-44](https://github.com/user-attachments/assets/126b245f-297b-4427-a4e2-3c17fa8c5024)
+
 # Question #4: Launch a Ec2 instance , then attach  EBS 4gb volume  to it and then remove it , detach it from EC2 , take snapsots of EBS before detaching
 
 ![2025-04-26_10-54](https://github.com/user-attachments/assets/a7b9fc77-ec52-4f96-849e-2f78e44684e5)
